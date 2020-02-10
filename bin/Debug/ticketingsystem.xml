@@ -1,0 +1,104 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ticketingsystem
+</name>
+</assembly>
+<members>
+<member name="P:ticketingsystem.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:ticketingsystem.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:ticketingsystem.My.Resources.Resources.attachment">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ticketingsystem.My.Resources.Resources.cancellogin">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ticketingsystem.My.Resources.Resources.ch">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ticketingsystem.My.Resources.Resources.loginbutton">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ticketingsystem.My.Resources.Resources.loginform">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ticketingsystem.My.Resources.Resources.search_bar_field_vector_interface_260nw_594273617__1_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ticketingsystem.My.Resources.Resources.user_clipart_matt_icons_preferences_desktop_personal">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:ticketingsystem.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:ticketingsystem.ticketingDataSet1.ticket_historyDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ticketingsystem.ticketingDataSet1.ticket_historyRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ticketingsystem.ticketingDataSet1.ticket_historyRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ticketingsystem.ticketingDataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:ticketingsystem.ticketingDataSet1TableAdapters.ticket_historyTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:ticketingsystem.ticketingDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(ticketingsystem.ticketingDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:ticketingsystem.ticketingDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(ticketingsystem.ticketingDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:ticketingsystem.ticketingDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(ticketingsystem.ticketingDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:ticketingsystem.ticketingDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:ticketingsystem.ticketingDataSet1TableAdapters.TableAdapterManager.UpdateAll(ticketingsystem.ticketingDataSet1)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:ticketingsystem.ticketingDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:ticketingsystem.ticketingDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:ticketingsystem.ticketingDataSet1TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>
